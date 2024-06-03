@@ -34,56 +34,58 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-Step 1: You are going to create a few tickets from the end user's perspective and work through them as an agent to resolution. This is what the home screen for the End User should look like:
+<b>Step 1: In this tutorial, you are going to get a bit of practice, creating tickets from the end user's perspective and work through them as an agent to resolution. This is what the home screen for the End User should look like:</b>
 
 <p>
 <img src="https://i.imgur.com/IUG7z4H.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
-Step 2: Go ahead and enter in Karen's information. Email and name. Select the help topic Business Critical Outage that you established during the post-install tutorial; the bottom half of the screen will drop down to allow "Karen" to enter in details specific to her ticket request.
+<b>Step 2: For the first ticket, you will enter Karen's information (one of the users you created in the post-installation tutorial). Just enter Karen's email and name for the purposes of this tutorial. Select ***Business Critical Outage*** from Help Topic drop down menu.</b> 
+
+**_!!NOTE!! - The bottom half of the form will drop down to allow you to fill in more details of the ticket request._**
 
 <p>
 <img src="https://i.imgur.com/WkZGxrr.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
-- Say that Karen is a manager for an online financial instiution. She reports that the entire online banking system is down; and that customers are receiving a 404 error when attempting to navigate. Click create ticket.
+- Imagine Karen is the manager of the online banking platform. She is reporting that the entire online banking system is down; and customers don't have access. To do this: Create Issue Summary --> Expand on issue in box below -->Click Create Ticket. 
 
 <p>
 <img src="https://i.imgur.com/mZwKnjt.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
-- IF Karen's ticket submits successfully, this is how her screen should look:
+- Your screen will look like this if your ticket is created successfully:
 
 <p>
 <img src="https://i.imgur.com/o7Z5fwk.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
-Step 3: Create another ticket. So back to honmescreen here: 
+<b>Step 3: Create another ticket. Return to the Ticket System home page:</b> 
 
 <p>
 <img src="https://i.imgur.com/IUG7z4H.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
-- You can use Chad this time. Chad works into accounting or something similar. So Chad logs in and decides the help topic should be Personal Computer Issues. 
+- Chad ***(the other user you created)*** is the head of an Accounting Department and is having software issues. So Chad logs in and creates a ticket in Personal Computer Issues. Fill in email and name --> Select Help Topic. 
 
 <p>
 <img src="https://i.imgur.com/JcgPWHA.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
-- Chad is department lead and is reporting that the Accounting Department is unable to use Adobe Reader since last update. Click Create Ticket.
+- He reports that the Accounting Department is unable to use Adobe Reader. Create Issue Summary --> Expand on issue in box below --> Click Create Ticekt.
 
 <p>
 <img src="https://i.imgur.com/yjO2BeX.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
-- Chad submits his ticket successfully as well. Head back to user home acreen.
+- Chad's ticket submits successfully. Head back to user home acreen.
 
 <p>
 <img src="https://i.imgur.com/sqxK3bM.png" title="source: imgur.com" /></a>
@@ -95,7 +97,7 @@ Step 3: Create another ticket. So back to honmescreen here:
 </p>
 <br />
 
-Step 4: Create one final ticket as Karen. She just wants some general information. Fill in her details, then select General Inquiry.
+<b>Step 4: Karen created one more ticket. She needs some general information. Fill in her details, then select General Inquiry.
 
 <p>
 <img src="https://i.imgur.com/WkZGxrr.png" title="source: imgur.com" /></a>
