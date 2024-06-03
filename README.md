@@ -48,7 +48,7 @@ Step 2: Go ahead and enter in Karen's information. Email and name. Select the he
 </p>
 <br />
 
-- Say that Karen is a manager for an  online financial instiution. She reports that the entire online banking system is down; and that customers are receiving a 404 error when attempting to navigate. Click create ticket.
+- Say that Karen is a manager for an online financial instiution. She reports that the entire online banking system is down; and that customers are receiving a 404 error when attempting to navigate. Click create ticket.
 
 <p>
 <img src="https://i.imgur.com/mZwKnjt.png" title="source: imgur.com" /></a>
@@ -123,14 +123,14 @@ Step 5: Now that you have seen the end user process, it is time to learn how to 
 </p>
 <br />
 
-- This is what Jane's home screen looks like. Notice how all of the tickets that were generated are visible. Also all priority levels remain at normal. You should pick the BUsiness Critical outage as an accurate way to prioritize the tickets.
+- This is Jane's homescreen. Notice how all of the tickets that were generated are visible. Also all priority levels remain at normal. You are required to assign Priority, SLA Plans, and tickets to agents at this time. This is important to begin to queue the tickets so that they may begin to be worked on accourding to SLA requirements.
 
 <p>
 <img src="https://i.imgur.com/xMuJUMQ.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
-Step 6: This is how the ticket screen appears in the system. Notice you have the ticket creator's information, the date and time created. Notice also how the ticket is unassigned, normal priority, and unassigned to an agent. You are gping to begin to queue the tickets so that they may begin to be worked on. 
+- This is how the ticket screen appears in the system. Notice you have the ticket creator's information, the date and time created. Notice also how the ticket is unassigned, normal priority, and unassigned to an agent. 
 
 <p>
 <img src="https://i.imgur.com/Cdysj5f.png" title="source: imgur.com" /></a>
@@ -174,7 +174,7 @@ update.
 <br />
 
 
-Step 7: SInce Jane assigned the ticket to herself, she can go ahead and begin working the ticket. Underneath the ticket thread Jane posts a reply stating that she is coordinating with a team to get a resolution. Leave the ticket open and post reply.
+Step 6: SInce Jane assigned the ticket to herself, she can go ahead and begin working the ticket. Underneath the ticket thread Jane posts a reply stating that she is coordinating with a team to get a resolution. Leave the ticket open and post reply.
 
 <p>
 <img src="https://i.imgur.com/9uvPupC.png" title="source: imgur.com" /></a> 
@@ -188,6 +188,7 @@ Step 7: SInce Jane assigned the ticket to herself, she can go ahead and begin wo
 </p>
 <br />
 
+Step 7: 
 - Jane has been collaborating with her team to reach a resolution. A colleague in System Engineering finds and solves the problemt. Since the issure has been repaired she posts a reply in the system; Jane resolves the ticket by selectinbg Resolved from ticket status and clicks post reply.
 
 <p>
@@ -207,7 +208,7 @@ Step 7: SInce Jane assigned the ticket to herself, she can go ahead and begin wo
 </p>
 <br />
 
-Step 8: Now it's tinme to work the next ticket. The second ticket opn our list that should be resolved due to priority is the ticket submitted by Chad regarding Adobe Reader problems. Keep in mind you are still logged in as Jane.
+Step 8: You should look at the next ticket. That would be he second ticket on our list that is submitted by Chad regarding Adobe Reader problems. 
 
 <p>
 <img src="https://i.imgur.com/FoxKJSA.png" title="source: imgur.com" /></a>
@@ -268,7 +269,48 @@ Step 8: Now it's tinme to work the next ticket. The second ticket opn our list t
 </p>
 <br />
 
-Step 8: In order to finish working the ticket, You need to login as Marshall at the Helpdesk Agent login.
+  ***Note - To clean up your queue, feel free to delete the osTicket installed Ticket at any time you feel comfortable. Click on the Ticket --> Click the Trash Can Icon --> Delete.***
+
+Step 9: Now for the final ticket, the General Inquiry. It was assigned to Jane, so you need to log back in as Jane on the Helpdesk Agent login.
+
+<p>
+<img src="https://i.imgur.com/jsqE9Fc.png" title="source: imgur.com" /></a>
+</p>
+<br />
+
+- Once at the ticket screen, you can see that options are listed as default. Like the two previous tickets in the tutorial, you will first need to evaluate priority status and assignment. 
+
+<p>
+<img src="https://i.imgur.com/4uxexWN.png" title="source: imgur.com" /></a>
+</p>
+<br />
+
+- Next you can change the SLA to Sev-C, and assign the ticket to an agent. The priority level is fine for the issue reported. Change the SLA --> Sev-C --> Update. Since Jane already knows this information, you can assign this to her by Clicking Assigned to --> Choose Jane Doe --> Click Assign.
+
+<p>
+<<img src="https://i.imgur.com/UYsz8TY.png" title="source: imgur.com" /></a>
+</p>
+<br />
+
+- Then, Jane provides a resolution, and contact information for further communication and closes out the Ticket. Creaet Response --> Choose Closed from Status Menu --> Click Post Reply.
+
+<p>
+<img src="https://i.imgur.com/0CD5Q3O.png" title="source: imgur.com" /></a>
+</p>
+<br />
+
+- Jane's reply posts successfully and has no tickets remaining at the time. 
+<p>
+<img src="https://i.imgur.com/fJfRUM2.png" title="source: imgur.com" /></a>
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/hmwblLC.png" title="source: imgur.com" /></a>
+</p>
+<br />
+
+Step 10: In order to finish working the ticket, You need to login as Marshall at the Helpdesk Agent login.
 
 <p>
 <img src="https://i.imgur.com/sntSGfy.png" title="source: imgur.com" /></a>
@@ -302,58 +344,17 @@ Step 8: In order to finish working the ticket, You need to login as Marshall at 
 </p>
 <br />
 
-Step 9: Now for the final ticket, the General Inquiry. It was assigned to Jane, so you need to log back in as Jane on the Helpdesk Agent login.
+Step 11: And finally, just to be sure, log back into Jane's account to be SURE that you have no tickets remaining. Her homescreen should look like this:
 
 <p>
-<img src="https://i.imgur.com/jsqE9Fc.png" title="source: imgur.com" /></a>
+<img src="https://i.imgur.com/hmwblLC.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
-- Once at the ticket screen, you can see that options are listed as default. Like the two previous tickets in the tutorial, you need to evaluate priority status and assignment. 
 
-<p>
-<img src=  
-</p>
-<br />
+Congrats! Now you have completed this tutorial and have seen how the ticketing system works for both End users and 
 
-<p>
-<img src=  
-</p>
-<br />
 
-<p>
-<img src=  
-</p>
-<br />
-
-<p>
-<img src=  
-</p>
-<br />
-
-<p>
-<img src=  
-</p>
-<br />
-
-<p>
-<img src=  
-</p>
-<br />
-
-<p>
-<img src=  
-</p>
-<br />
-
-<p>
-<img src=  
-</p>
-<br />
-
-<p>
-<img src=  
-</p>
 <br />
 
   
