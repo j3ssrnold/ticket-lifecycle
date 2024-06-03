@@ -228,23 +228,28 @@ Step 8: Now it's tinme to work the next ticket. The second ticket opn our list t
 </p>
 <br />
 
-- Next,
-
+- Next, Jane needs to configure the SLA level for this ticket. It's not quite an emergency, but it is a high priority due to it potentially interrupting the productivity of the Accounting Department. Choose Sev-B from menu --> Click update. 
 
 <p>
 <img src="https://i.imgur.com/AdyYomr.png" title="source: imgur.com" /></a>  
 </p>
 <br />
 
+- Finally, assign the ticket to a HelpDesk agent. Click Marshall Arnold --> Click Assign.
+
 <p>
 <img src="https://i.imgur.com/VTK9HfV.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
+- You can now see below the changes and assignments that have been applied to the Personal Computer Issues ticket.
+
 <p>
 <img src="https://i.imgur.com/qNIUPeg.png" title="source: imgur.com" /></a>  
 </p>
 <br />
+
+- Jane proceeds to post a reply documenting her changes and assignment of the ticket. Create response ***per your institution's guidelines*** --> Choose Ticket status as open --> Click Post Reply.  You should also document that you reached out to the assigned agent with a warm hand ***(meaning that you spoke with the agent directly about the ticket and assignment)***. The ticket thread documents that a warm handoff with Marshall occurs, as well. 
 
 <p>
 <img src="https://i.imgur.com/fCFKexw.png" title="source: imgur.com" /></a>
@@ -256,52 +261,100 @@ Step 8: Now it's tinme to work the next ticket. The second ticket opn our list t
 </p>
 <br />
 
+- The ticket queue now shows that the Priority Level is High and has been assigned to an agent.
+
 <p>
 <img src="https://i.imgur.com/4XpSrmB.png" title="source: imgur.com" /></a>
 </p>
 <br />
+
+Step 8: In order to finish working the ticket, You need to login as Marshall at the Helpdesk Agent login.
 
 <p>
 <img src="https://i.imgur.com/sntSGfy.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
+- Marshall's home screen now shows he has a ticket he needs to resolve.
+
 <p>
 <img src="https://i.imgur.com/wYI9GYi.png" title="source: imgur.com" /></a>
 </p>
 <br />
+
+- Marshall posts a reply of actions taken to temporarily get Accounting working again and plans to research for a solution. In order to do this; you create a response --> choose open TIcket Status --> Click post reply.
 
 <p>
 <img src="https://i.imgur.com/GNyMd8A.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
+- Marshall's reply has posted in the Ticket Thread. You can pretend some time has passed while research is occuring. A solution has been found. Marshall submits a reply and closes the ticket. To do this, Create a response --> Select Closed in Ticket Status menu --> Click Post Reply
+
 <p>
 <img src="https://i.imgur.com/4I4obIg.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
+- Back at his honme screen, you can see that Marshall has closed his ticket assignment.
 <p>
 <img src="https://i.imgur.com/ZJxtxoI.png" title="source: imgur.com" /></a>
 </p>
 <br />
 
+Step 9: Now for the final ticket, the General Inquiry. It was assigned to Jane, so you need to log back in as Jane on the Helpdesk Agent login.
 
+<p>
+<img src="https://i.imgur.com/jsqE9Fc.png" title="source: imgur.com" /></a>
+</p>
+<br />
 
+- Once at the ticket screen, you can see that options are listed as default. Like the two previous tickets in the tutorial, you need to evaluate priority status and assignment. 
 
+<p>
+<img src=  
+</p>
+<br />
 
+<p>
+<img src=  
+</p>
+<br />
 
+<p>
+<img src=  
+</p>
+<br />
 
+<p>
+<img src=  
+</p>
+<br />
 
+<p>
+<img src=  
+</p>
+<br />
 
+<p>
+<img src=  
+</p>
+<br />
 
+<p>
+<img src=  
+</p>
+<br />
 
+<p>
+<img src=  
+</p>
+<br />
 
-
-
-
-
-
+<p>
+<img src=  
+</p>
+<br />
 
   
   
