@@ -190,185 +190,184 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     </p>
 <br />
 
-Step 7: SInce Jane assigned the ticket to herself, she can go ahead and begin working the ticket. Underneath the ticket thread Jane posts a reply stating that she is coordinating with a team to get a resolution. Leave the ticket open and post reply.
+<h3>Step 7: You can begin working Jane's first ticket.</h3> 
 
-<p>
-<img src="https://i.imgur.com/9uvPupC.png" title="source: imgur.com" /></a> 
-</p>
+-  Post reply under ticket thread --> Leave ticket open --> Click Post Reply. 
+
+    <p>
+    <img src="https://i.imgur.com/9uvPupC.png" title="source: imgur.com" /></a> 
+    </p>
+
+-  Back at Jane's home screen you can see where the ticket's priorty status has changed and is assigned to an agent:
+
+    <p>
+    <img src="https://i.imgur.com/r2rWmsQ.png" title="source: imgur.com" /></a>
+    </p>
+
+<h3>Step 8: Jane has been collaborating with her team to reach a resolution. A colleague in System Engineering finds and solves the problem.</h3>
+
+-  Since the issue is repaired: Post a reply in the system --> Selecting Resolved from Ticket Status --> Click Post Reply.
+
+    <p>
+    <img src="https://i.imgur.com/STIwVo0.png" title="source: imgur.com" /></a>
+    </p>
+
+-  Back in Jane's home screen you can see the ticket is no longer in the queue.
+   -  To confirm ticket is closed: Click Ticket --> Closed --> Today.
+
+    <p>
+    <img src="https://i.imgur.com/FoxKJSA.png" title="source: imgur.com" /></a>
+    <img src="https://i.imgur.com/uUU8Ead.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- Back at Jane's home screen you can see where the ticket's priorty status has changed and is assigned to an agent:
+<h3>Step 9: Take a look at the next ticket that Chad submitted regarding Adobe Reader issues.</h3>
 
-<p>
-<img src="https://i.imgur.com/r2rWmsQ.png" title="source: imgur.com" /></a>
-</p>
-<br />
+-  Back at Jane's home screen click on the "Accounting Department" Ticket to pull up the details.
 
-Step 7: 
-- Jane has been collaborating with her team to reach a resolution. A colleague in System Engineering finds and solves the problemt. Since the issure has been repaired she posts a reply in the system; Jane resolves the ticket by selectinbg Resolved from ticket status and clicks post reply.
+    <p>
+    <img src="https://i.imgur.com/FoxKJSA.png" title="source: imgur.com" /></a>
+    </p>
 
-<p>
-<img src="https://i.imgur.com/STIwVo0.png" title="source: imgur.com" /></a>
-</p>
-<br />
+-  Below is the Ticket Details Screen for the ***Personal Computer Issues*** submission. Again no priority levels or agents are assigned.
 
-- Back in Jane's home screen you can see the ticket is no longer in the queue. You can also Click Ticket --> Closed --> Today to double check that the ticket is closed.
+    <p>
+    <img src="https://i.imgur.com/zAQGrfW.png" title="source: imgur.com" /></a>
+    </p>
 
-<p>
-<img src="https://i.imgur.com/FoxKJSA.png" title="source: imgur.com" /></a>
-</p>
-<br />
+-  Logged in as Jane, you will determine the proper settings for the Ticket submitted by Chad.
 
-<p>
-<img src="https://i.imgur.com/uUU8Ead.png" title="source: imgur.com" /></a>
-</p>
-<br />
+-  First, You will need to establish priority. Assign this priority level as High, since the whole Accounting Department is unable to use the software.
+    -  Choose High from the drop down menu --> Enter your rationale for changing --> Click Update.
 
-Step 8: You should look at the next ticket. That would be he second ticket on our list that is submitted by Chad regarding Adobe Reader problems. 
+    <p>
+    <img src="https://i.imgur.com/8bWtj71.png" title="source: imgur.com" /></a>
+    </p>
 
-<p>
-<img src="https://i.imgur.com/FoxKJSA.png" title="source: imgur.com" /></a>
-</p>
-<br />
+-  Second, Configure the SLA level for this ticket. Choose high priority due to it potentially interrupting the productivity of the Accounting Department.
+    -  Click SLA Plan --> Choose Sev-B from menu --> Click update. 
 
-- Here is the screen for the Adobe Reader ***(Personal Computer Issues)***. Again no priority levels or agents are assigned. Logged in as Jane, you will determine the proper settings for the Ticket submitted by Chad.
+    <p>
+    <img src="https://i.imgur.com/AdyYomr.png" title="source: imgur.com" /></a>  
+    </p>
 
-<p>
-<img src="https://i.imgur.com/zAQGrfW.png" title="source: imgur.com" /></a>
-</p>
-<br />
+-  Finally, assign the ticket to a HelpDesk agent.
+    -  Click Assigned To --> Choose Marshall Arnold --> Click Assign.
 
-- First Jane will need to establish priority. It would be best to assign this priority level as High, since the whole Accounting Department is unable to use the software. Choose High from the drop down menu --> Enter your rational for changing --> Click Update.
+    <p>
+    <img src="https://i.imgur.com/VTK9HfV.png" title="source: imgur.com" /></a>
+    </p>
 
-<p>
-<img src="https://i.imgur.com/8bWtj71.png" title="source: imgur.com" /></a>
-</p>
-<br />
+-  Now you can see the changes and assignments that have been applied to the ticket below.
 
-- Next, Jane needs to configure the SLA level for this ticket. It's not quite an emergency, but it is a high priority due to it potentially interrupting the productivity of the Accounting Department. Choose Sev-B from menu --> Click update. 
+    <p>
+    <img src="https://i.imgur.com/qNIUPeg.png" title="source: imgur.com" /></a>  
+    </p>
 
-<p>
-<img src="https://i.imgur.com/AdyYomr.png" title="source: imgur.com" /></a>  
-</p>
-<br />
+-  Jane proceeds to post a reply documenting her changes and assignment of the ticket.
+    -  Create response ***per your institution's guidelines*** --> Choose Ticket status as open --> Click Post Reply.
 
-- Finally, assign the ticket to a HelpDesk agent. Click Marshall Arnold --> Click Assign.
+    <p>
+    <img src="https://i.imgur.com/fCFKexw.png" title="source: imgur.com" /></a>
+    </p>
 
-<p>
-<img src="https://i.imgur.com/VTK9HfV.png" title="source: imgur.com" /></a>
-</p>
-<br />
+-  You should also document that you reached out to the assigned agent with a warm hand ***(meaning that you spoke with the agent directly about the ticket and assignment)***.
+    -  The ticket thread reflects that a warm handoff with Marshall occurs. 
 
-- You can now see below the changes and assignments that have been applied to the Personal Computer Issues ticket.
+    <p>
+    <img src="https://i.imgur.com/qNIUPeg.png" title="source: imgur.com" /></a>
+    </p>
 
-<p>
-<img src="https://i.imgur.com/qNIUPeg.png" title="source: imgur.com" /></a>  
-</p>
-<br />
+- The ticket queue displays that the Priority Level is High and has been assigned to an agent.
 
-- Jane proceeds to post a reply documenting her changes and assignment of the ticket. Create response ***per your institution's guidelines*** --> Choose Ticket status as open --> Click Post Reply.  You should also document that you reached out to the assigned agent with a warm hand ***(meaning that you spoke with the agent directly about the ticket and assignment)***. The ticket thread documents that a warm handoff with Marshall occurs, as well. 
+    <p>
+    <img src="https://i.imgur.com/4XpSrmB.png" title="source: imgur.com" /></a>
+    </p>
 
-<p>
-<img src="https://i.imgur.com/fCFKexw.png" title="source: imgur.com" /></a>
-</p>
-<br />
+>[!TIP]
+>To clean up your queue, feel free to delete the osTicket installed Ticket at any time you feel comfortable. Click on the Ticket --> Click the Trash Can Icon --> Delete.
 
-<p>
-<img src="https://i.imgur.com/qNIUPeg.png" title="source: imgur.com" /></a>
-</p>
-<br />
+<h3>Step 10: The General Inquiry, the final ticket, was assigned to Jane.</h3> 
 
-- The ticket queue now shows that the Priority Level is High and has been assigned to an agent.
+-  You need to log back in as Jane on the Helpdesk Agent login.
 
-<p>
-<img src="https://i.imgur.com/4XpSrmB.png" title="source: imgur.com" /></a>
-</p>
-<br />
+    <p>
+    <img src="https://i.imgur.com/jsqE9Fc.png" title="source: imgur.com" /></a>
+    </p>
 
-  ***Note - To clean up your queue, feel free to delete the osTicket installed Ticket at any time you feel comfortable. Click on the Ticket --> Click the Trash Can Icon --> Delete.***
+-  Once at the ticket screen, you can see that options are listed as default. Like the two previous tickets, you will first need to evaluate priority status and assignment. 
 
-Step 9: Now for the final ticket, the General Inquiry. It was assigned to Jane, so you need to log back in as Jane on the Helpdesk Agent login.
+    <p>
+    <img src="https://i.imgur.com/4uxexWN.png" title="source: imgur.com" /></a>
+    </p>
 
-<p>
-<img src="https://i.imgur.com/jsqE9Fc.png" title="source: imgur.com" /></a>
-</p>
-<br />
+-  Next, configure the SLA to Sev-C, and assign the ticket to an agent. The priority level is fine for the issue reported.
+    -  Change the SLA --> Sev-C --> Update.
+        -  Since Jane already knows this information, you can assign this to her.
+            -  Click Assigned to --> Choose Jane Doe --> Click Assign.
 
-- Once at the ticket screen, you can see that options are listed as default. Like the two previous tickets in the tutorial, you will first need to evaluate priority status and assignment. 
+    <p>
+    <img src="https://i.imgur.com/UYsz8TY.png" title="source: imgur.com" /></a>
+    </p>
 
-<p>
-<img src="https://i.imgur.com/4uxexWN.png" title="source: imgur.com" /></a>
-</p>
-<br />
+-  Then, Jane provides a resolution and contact information for further communication. She also closes out the Ticket.
+    -  Create Response --> Choose Closed from Status Menu --> Click Post Reply.
 
-- Next you can change the SLA to Sev-C, and assign the ticket to an agent. The priority level is fine for the issue reported. Change the SLA --> Sev-C --> Update. Since Jane already knows this information, you can assign this to her by Clicking Assigned to --> Choose Jane Doe --> Click Assign.
-
-<p>
-<<img src="https://i.imgur.com/UYsz8TY.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-- Then, Jane provides a resolution, and contact information for further communication and closes out the Ticket. Creaet Response --> Choose Closed from Status Menu --> Click Post Reply.
-
-<p>
-<img src="https://i.imgur.com/0CD5Q3O.png" title="source: imgur.com" /></a>
-</p>
-<br />
+    <p>
+    <img src="https://i.imgur.com/0CD5Q3O.png" title="source: imgur.com" /></a>
+    </p>
 
 - Jane's reply posts successfully and has no tickets remaining at the time. 
-<p>
-<img src="https://i.imgur.com/fJfRUM2.png" title="source: imgur.com" /></a>
-</p>
+
+    <p>
+    <img src="https://i.imgur.com/fJfRUM2.png" title="source: imgur.com" /></a>
+    <img src="https://i.imgur.com/hmwblLC.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/hmwblLC.png" title="source: imgur.com" /></a>
-</p>
+<h3>Step 11: Complete the Ticket</h3>
+
+-  To finish working the ticket, You need to login as Marshall at the [Helpdesk login](http://localhost/osTicket/scp/login.php).
+
+    <p>
+    <img src="https://i.imgur.com/sntSGfy.png" title="source: imgur.com" /></a>
+    </p>
+
+-  Marshall's home screen now shows he has a ticket he needs to resolve.
+
+    <p>
+    <img src="https://i.imgur.com/wYI9GYi.png" title="source: imgur.com" /></a>
+    </p>
+-  Marshall posts a reply of actions taken to temporarily get Accounting working again and plans to research for a solution.
+    -  Create a response --> Choose Open Ticket Status --> Click Post Reply.
+
+    <p>
+    <img src="https://i.imgur.com/GNyMd8A.png" title="source: imgur.com" /></a>
+    </p>
+
+-  Marshall's reply has posted in the Ticket Thread. You can pretend some time has passed while research is occuring. A solution has been found and Marshall submits a reply and closes the ticket.
+    - To do this: Create a response --> Select Closed in Ticket Status menu --> Click Post Reply
+
+    <p>
+    <img src="https://i.imgur.com/4I4obIg.png" title="source: imgur.com" /></a>
+    </p>
+
+-  Back at the honme screen, you can see that Marshall has closed this ticket assignment.
+
+    <p>
+    <img src="https://i.imgur.com/ZJxtxoI.png" title="source: imgur.com" /></a>
+    </p>
+
+<h3>Step 12: Finally, just to be sure, log back into Jane's account to be SURE that you have no tickets remaining.</h3> 
+
+-  The homescreen should look like this:
+
+    <p>
+    <img src="https://i.imgur.com/hmwblLC.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-Step 10: In order to finish working the ticket, You need to login as Marshall at the Helpdesk Agent login.
-
-<p>
-<img src="https://i.imgur.com/sntSGfy.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-- Marshall's home screen now shows he has a ticket he needs to resolve.
-
-<p>
-<img src="https://i.imgur.com/wYI9GYi.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-- Marshall posts a reply of actions taken to temporarily get Accounting working again and plans to research for a solution. In order to do this; you create a response --> choose open TIcket Status --> Click post reply.
-
-<p>
-<img src="https://i.imgur.com/GNyMd8A.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-- Marshall's reply has posted in the Ticket Thread. You can pretend some time has passed while research is occuring. A solution has been found. Marshall submits a reply and closes the ticket. To do this, Create a response --> Select Closed in Ticket Status menu --> Click Post Reply
-
-<p>
-<img src="https://i.imgur.com/4I4obIg.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-- Back at his honme screen, you can see that Marshall has closed his ticket assignment.
-<p>
-<img src="https://i.imgur.com/ZJxtxoI.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-Step 11: And finally, just to be sure, log back into Jane's account to be SURE that you have no tickets remaining. Her homescreen should look like this:
-
-<p>
-<img src="https://i.imgur.com/hmwblLC.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-
-Congrats! Now you have completed this tutorial and have seen how the ticketing system works for both End users and 
+<h3>Congrats! You should now have some understanding of the Ticket Lifecycle from creation to resolution.</h3> 
 
 
 <br />
