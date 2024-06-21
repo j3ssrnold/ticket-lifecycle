@@ -34,149 +34,163 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<b>Step 1: In this tutorial, you are going to get a bit of practice, creating tickets from the end user's perspective and work through them as an agent to resolution. This is what the home screen for the End User should look like:</b>
+<h3>Step 1: In the browser of your preference head over to the osTicket End User home page to begin.</h3>
 
-<p>
-<img src="https://i.imgur.com/IUG7z4H.png" title="source: imgur.com" /></a>
-</p>
+-  [osTicket End User Home Screen](http://localhost/osTicket) --> This what the home screen for the End User should look like:
+
+    <p>
+    <img src="https://i.imgur.com/IUG7z4H.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-<b>Step 2: For the first ticket, you will enter Karen's information (one of the users you created in the post-installation tutorial). Just enter Karen's email and name for the purposes of this tutorial. Select ***Business Critical Outage*** from Help Topic drop down menu.</b> 
+<h3>Step 2: Enter your user's information</h3>
 
-**_!!NOTE!! - The bottom half of the form will drop down to allow you to fill in more details of the ticket request._**
+-  Use Karen: created in the [Post-installation tutorial](https://github.com/j3ssrnold/post-install-config).
+    -  Enter Karen's email and name --> Select ***Business Critical Outage*** from Help Topic drop down menu. 
 
-<p>
-<img src="https://i.imgur.com/WkZGxrr.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/WkZGxrr.png" title="source: imgur.com" /></a>
+    </p>
+
+>[!TIP]
+>The bottom half of the form will drop down to allow you to fill in more details of the ticket request after you select the help topic.
+
+-  Karen is the manager of the online banking platform. She is reporting that the entire online banking system is down; and customers don't have access.
+    -  Create Issue Summary --> Expand on issue in box below --> Click Create Ticket. 
+
+    <p>
+    <img src="https://i.imgur.com/mZwKnjt.png" title="source: imgur.com" /></a>
+    </p>
+
+-  Karen's ticket submits successfully; and the screen looks like this:
+
+    <p>
+    <img src="https://i.imgur.com/o7Z5fwk.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- Imagine Karen is the manager of the online banking platform. She is reporting that the entire online banking system is down; and customers don't have access. To do this: Create Issue Summary --> Expand on issue in box below -->Click Create Ticket. 
+<h3>Step 3: Create another ticket.</h3> 
 
-<p>
-<img src="https://i.imgur.com/mZwKnjt.png" title="source: imgur.com" /></a>
-</p>
+-  Return to the [Ticket home page](http://localhost/osTicket):
+
+    <p>
+    <img src="https://i.imgur.com/IUG7z4H.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- Your screen will look like this if your ticket is created successfully:
+<h3>Step 4: Enter the next user's information</h3> 
 
-<p>
-<img src="https://i.imgur.com/o7Z5fwk.png" title="source: imgur.com" /></a>
-</p>
+-  Use Chad created in the [previous tutorial](https://github.com/j3ssrnold/post-install-config)
+    -  Fill in Chad's email and name --> Select ***Personal Computer Issues*** Help Topic. 
+
+    <p>
+    <img src="https://i.imgur.com/JcgPWHA.png" title="source: imgur.com" /></a>
+    </p>
+
+-  Chad is the head of the Accounting Department and reports that the entire Department is unable to use Adobe Reader.
+    -  Create Issue Summary --> Expand on issue in box below --> Click Create Ticket.
+
+    <p>
+    <img src="https://i.imgur.com/yjO2BeX.png" title="source: imgur.com" /></a>
+    </p>
+
+-  Chad's ticket submits successfully. Head back to user home acreen.
+
+    <p>
+    <img src="https://i.imgur.com/sqxK3bM.png" title="source: imgur.com" /></a>
+    <img src="https://i.imgur.com/IUG7z4H.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-<b>Step 3: Create another ticket. Return to the Ticket System home page:</b> 
+<h3>Step 4: Karen creates one more ticket regarding general information.</h3> 
 
-<p>
-<img src="https://i.imgur.com/IUG7z4H.png" title="source: imgur.com" /></a>
-</p>
-<br />
+-  Fill in Karen's details, then select General Inquiry.
 
-- Chad ***(the other user you created)*** is the head of an Accounting Department and is having software issues. So Chad logs in and creates a ticket in Personal Computer Issues. Fill in email and name --> Select Help Topic. 
+    <p>
+    <img src="https://i.imgur.com/WkZGxrr.png" title="source: imgur.com" /></a>
+    </p>
 
-<p>
-<img src="https://i.imgur.com/JcgPWHA.png" title="source: imgur.com" /></a>
-</p>
-<br />
+-  Karen wants to know when the next hardware refresh will be due to the fact that her entire staff are having ***(unspecified)*** issues with their tablets.
+    -  Create Issue Summary --> Expand on issue in box below --> Click Create Ticket.
 
-- He reports that the Accounting Department is unable to use Adobe Reader. Create Issue Summary --> Expand on issue in box below --> Click Create Ticekt.
+    <p>
+    <img src="https://i.imgur.com/1hSwZ8D.png" title="source: imgur.com" /></a>
+    </p>
 
-<p>
-<img src="https://i.imgur.com/yjO2BeX.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-- Chad's ticket submits successfully. Head back to user home acreen.
-
-<p>
-<img src="https://i.imgur.com/sqxK3bM.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/IUG7z4H.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-<b>Step 4: Karen created one more ticket. She needs some general information. Fill in her details, then select General Inquiry.
-
-<p>
-<img src="https://i.imgur.com/WkZGxrr.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-- Karen wants to know when the next hardware refresh will be due to the fact that her entire staff are having issues ***(unspoecified)*** with their tablets. Click create ticket.
-
-<p>
-<img src="https://i.imgur.com/1hSwZ8D.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-- Karen's ticket submits successfully.
+-  Karen's ticket submits successfully.
   
-<p>
-<img src="https://i.imgur.com/xvLDsiS.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/xvLDsiS.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-Step 5: Now that you have seen the end user process, it is time to learn how to work a ticket as an IT Professional. CLick on the HelpDesk link above and log in as Jane. Remember she is your Supreme Admin you created in the previous tutorial.
+<h3>Step 5: Now you can explore how to work a ticket as an IT Professional.</h3> 
 
-<p>
-<img src="https://i.imgur.com/jsqE9Fc.png" title="source: imgur.com" /></a>
-</p>
+-  Go to [HelpDesk](http://localhost/osTicket/scp/login.php) --> Log in as Jane, your Supreme Admin created from the [previous tutorial](https://github.com/j3ssrnold/post-install-config).
+
+    <p>
+    <img src="https://i.imgur.com/jsqE9Fc.png" title="source: imgur.com" /></a>
+    </p>
+
+-  This is Jane's homescreen. Notice how all of the tickets that were generated are visible and all priority levels remain at normal. 
+
+    <p>
+    <img src="https://i.imgur.com/xMuJUMQ.png" title="source: imgur.com" /></a>
+    </p>
+
+>[!NOTE]
+>Jane is required to assign Priority, SLA Plans, and tickets to agents at this time. This is important to begin to queue the tickets so that they may begin to be worked on according to SLA requirements and maintain proper workflow.
 <br />
 
-- This is Jane's homescreen. Notice how all of the tickets that were generated are visible. Also all priority levels remain at normal. You are required to assign Priority, SLA Plans, and tickets to agents at this time. This is important to begin to queue the tickets so that they may begin to be worked on accourding to SLA requirements.
+<h3>Step 6: This is how the ticket screen appears in the system pre-queue. Notice how the ticket is unassigned, has normal priority, and is unassigned to an agent.</h3>
+      
+-  Be sure you can locate the ticket creator's information, the date and time created. 
 
-<p>
-<img src="https://i.imgur.com/xMuJUMQ.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/Cdysj5f.png" title="source: imgur.com" /></a>
+    </p>
+
+-  First, you need to establish priority.
+    -  For a Business Critical Outage --> Choose Emergency --> Business Impacting Event --> Update. This is how your window will appear: 
+
+    <p>
+    <img src="https://i.imgur.com/PGcw5J9.png" title="source: imgur.com" /></a>
+    </p>
+
+>[!IMPORTANT]
+>You should always assign priority according to your institution's SLA requirements and the potential for impact to the business or client.
 <br />
 
-- This is how the ticket screen appears in the system. Notice you have the ticket creator's information, the date and time created. Notice also how the ticket is unassigned, normal priority, and unassigned to an agent. 
+-  Second, assign the SLA level. Due to this being an emergency and business impacting event, assign SLA Sev-A from your drop down menu.
+    -  Click SLA Plan --> Select SEV-A --> Rationale: Business Critical Event: Potential Financial Impact --> Click Update.
 
-<p>
-<img src="https://i.imgur.com/Cdysj5f.png" title="source: imgur.com" /></a>
-</p>
+    <p>
+    <img src="https://i.imgur.com/SjktjWx.png" title="source: imgur.com" /></a>
+    </p>
+
+-  Third, assign the Ticket to an agent. Due to the Emergency Priority Level and other SLA paramenters for this client, choose Jane, your System Admin.
+    -  Click Assigned to --> Choose Jane Doe --> Click Assign.
+
+    <p>
+    <img src="https://i.imgur.com/2yUT3rC.png" title="source: imgur.com" /></a>
+    </p>
+
+-  Finally, transfer the Ticket to the proper department. Example: Online banking infrastructure is the responsibility of System Admins.
+    -  Click Department --> Choose System Administrator--> Transfer.
+
+    <p>
+    <img src="https://i.imgur.com/woAuMrb.png" title="source: imgur.com" /></a>
+    </p>
+
+-  Additionally, the ticket thread (located below Karen’s ticket details) indicates support level changes and assignment updates.
+    -  It looks something like this:
+
+    <p>
+    <img src="https://i.imgur.com/omxjPzs.png" title="source: imgur.com" /></a>
+    </p>
 <br />
 
-- First, you need to establish priority, This ticket falls under Business Critical Outage. You should assign emergency due to the potential for impact to the business. You will also be prompted to enter a reason for the change. This is how the wimdow appears. After entering the reason click
-update.
-
-<p>
-<img src="https://i.imgur.com/PGcw5J9.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-- Next assign the SLA level. Due to this being an emergency and business impacting event, assign SLA Sev-A from your drop down menu. Do not forget to put you rationale in the box. Click Update.
-
-<p>
-<img src="https://i.imgur.com/SjktjWx.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-- Then, assign the Ticket to your agent. Due to the Emergency Priority Level and other SLA paramenters for this client, assign this ticket to Jane from the drop down menu, who is a System Administrator. Click Assign.
-
-<p>
-<img src="https://i.imgur.com/2yUT3rC.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-- Finally, transfer the Ticket due to the proper department. Since online banking infrastructure is the responsibility of System Admins, transfer that ticket to the proper department. Once selected click Transfer.
-
-<P>
-<img src="https://i.imgur.com/woAuMrb.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-- The ticket thread falls directly below the general details of Karen's ticket. It shows what levels of support were changed and who the ticket was assigned to. It looks something like this:
-
-<p>
-<img src="https://i.imgur.com/omxjPzs.png" title="source: imgur.com" /></a>
-</p>
-<br />
-
-
-Step 6: SInce Jane assigned the ticket to herself, she can go ahead and begin working the ticket. Underneath the ticket thread Jane posts a reply stating that she is coordinating with a team to get a resolution. Leave the ticket open and post reply.
+Step 7: SInce Jane assigned the ticket to herself, she can go ahead and begin working the ticket. Underneath the ticket thread Jane posts a reply stating that she is coordinating with a team to get a resolution. Leave the ticket open and post reply.
 
 <p>
 <img src="https://i.imgur.com/9uvPupC.png" title="source: imgur.com" /></a> 
